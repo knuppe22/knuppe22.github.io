@@ -3,8 +3,7 @@ layout: home
 ---
 
 Our research interests lie in the following areas:
-* Virtual Reality
-* 3D Reconstruction and Augmented Reality
+* Virtual Reality and Augmented Reality
 * Deep Learning + 3D Applications
 * Computer Graphics and Physics Simulation
 
